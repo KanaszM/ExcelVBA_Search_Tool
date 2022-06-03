@@ -14,3 +14,7 @@
 * The “Initialization” sheet as well as the VBA source code are properly protected.
 * After selecting the folder, the tool will search all the Excel files present in it. Excel files found in another folder under the selected folder will be ignored. The search is non-recursive for performance and optimization reasons.
 * The duration of searches in a single file can be up to 30 seconds, depending on the performance of the operating system of the user or the volume of the file.
+
+## How to use
+
+1. 1.	If the macro activation notification appears (like the one in the picture below), click Enable Content. This step is usually required only once per user / operating system, Excel should remember this choice. If you do not enable macros, the tool will not work.
