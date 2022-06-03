@@ -42,3 +42,10 @@ When exiting the tool, saving is not necessary unless you want to save a copy of
 ## Credits
 The loading bar was inspired by the tutorial found on the following link:
 https://wellsr.com/vba/2017/excel/beautiful-vba-progress-bar-with-step-by-step-instructions/
+
+## For developers
+### Change the maximum search criteria fields
+1. Modify the spreadsheet layout however you want
+2. Open the "SearchWKBooks" module and edit the following line:
+```vba
+Dim rngSearch As Range: Set rngSearch = ThisWorkbook.Worksheets("Initialization").Range("C3:C22")
