@@ -57,3 +57,10 @@ Dim rngSearch As Range: Set rngSearch = ThisWorkbook.Worksheets("Initialization"
  .InitialFileName = ""
 ```
 * Replace the "" double quotes with a valid directory path. For example: "C:\Test"
+### Force the file as Read Only
+#### Open the "ThisWorkbook" section and uncomment the following lines
+```vba
+'Private Sub Workbook_Open()
+'    ThisWorkbook.ChangeFileAccess xlReadOnly
+'End Sub
+```
