@@ -18,16 +18,16 @@
 ## How to use
 
 1. If the macro activation notification appears (like the one in the picture below), click Enable Content. This step is usually required only once per user / operating system, Excel should remember this choice. If you do not enable macros, the tool will not work.
-2. ![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture1.png)
+![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture1.png)
 
 2. We enter between 1 and 20 pieces of information (configurable, more of than on the "For developers" section) that we want to search for. Do not proceed further if you have not entered anything.
-3. ![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture2.png)
+![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture2.png)
 
 3.	Click the "Select Directory > Search" button and select the folder that contains the files from which you want to search for the information entered in step 2.
-4.	![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture3.png)
+![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture3.png)
 
 4.	Wait until the search process is completed. We can track the progress in the loading window (like the one in the picture below). Upon completion, the window closes automatically, and the current sheet will change to a sheet called "Result".
-5.	![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture4.png)
+![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture4.png)
 
 ### Careful!
 When exiting the tool, saving is not necessary unless you want to save a copy of the tool to another location.
