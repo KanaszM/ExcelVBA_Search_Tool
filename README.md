@@ -17,4 +17,4 @@
 
 ## How to use
 
-1. 1.	If the macro activation notification appears (like the one in the picture below), click Enable Content. This step is usually required only once per user / operating system, Excel should remember this choice. If you do not enable macros, the tool will not work.
+1. If the macro activation notification appears (like the one in the picture below), click Enable Content. This step is usually required only once per user / operating system, Excel should remember this choice. If you do not enable macros, the tool will not work.
