@@ -48,5 +48,5 @@ https://wellsr.com/vba/2017/excel/beautiful-vba-progress-bar-with-step-by-step-i
 * Open the "SearchWKBooks" module and edit the following line:
 ```vba
 Dim rngSearch As Range: Set rngSearch = ThisWorkbook.Worksheets("Initialization").Range("C3:C22")
-
+```
 * Range("C3:C22") represents the search criteria cells
