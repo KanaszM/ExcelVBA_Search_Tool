@@ -45,7 +45,6 @@ https://wellsr.com/vba/2017/excel/beautiful-vba-progress-bar-with-step-by-step-i
 
 ## For developers
 ### Change the maximum search criteria fields
-1. Modify the spreadsheet layout however you want
-2. Open the "SearchWKBooks" module and edit the following line:
+*. Open the "SearchWKBooks" module and edit the following line:
 ```vba
 Dim rngSearch As Range: Set rngSearch = ThisWorkbook.Worksheets("Initialization").Range("C3:C22")
