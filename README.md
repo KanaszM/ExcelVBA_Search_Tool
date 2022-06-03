@@ -38,3 +38,7 @@ When exiting the tool, saving is not necessary unless you want to save a copy of
 (This behaviour can be changed, details on the "For developers" section)
 
 ![alt text](https://github.com/KanaszM/Excel_Search_Tool/blob/main/ReadMe_Resources/Picture5.png)
+
+## Credits
+The loading bar was inspired by the tutorial found on the following link:
+https://wellsr.com/vba/2017/excel/beautiful-vba-progress-bar-with-step-by-step-instructions/
