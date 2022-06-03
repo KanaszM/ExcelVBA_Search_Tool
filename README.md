@@ -44,14 +44,16 @@ The loading bar was inspired by the tutorial found on the following link:
 https://wellsr.com/vba/2017/excel/beautiful-vba-progress-bar-with-step-by-step-instructions/
 
 ## For developers
-* Open the "SearchWKBooks" module and edit the following lines
+
 ### Change the maximum search criteria fields
+#### Open the "SearchWKBooks" module and edit the following lines
 ```vba
 Dim rngSearch As Range: Set rngSearch = ThisWorkbook.Worksheets("Initialization").Range("C3:C22")
 ```
 * Range("C3:C22") represents the search criteria cells
 ### Set the default folder for the file selection dialog
+#### Open the "SearchWKBooks" module and edit the following lines
 ```vba
  .InitialFileName = ""
 ```
-* Replace the "" quotes with a valid directory path. For example: "C:\Test"
+* Replace the "" double quotes with a valid directory path. For example: "C:\Test"
